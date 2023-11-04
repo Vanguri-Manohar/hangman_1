@@ -1,0 +1,1 @@
+The Hangman Game in Python is an interactive and entertaining word-guessing game that challenges players to guess a hidden word by guessing individual letters. The project is hosted on GitHub, making it accessible to a wide audience of players and developers.
